@@ -1,0 +1,51 @@
+.box {
+    min-height: 180px;
+    min-width: 180px;
+    border: solid 3px rgb(31, 120, 161);
+    border-radius: 24px;
+    margin: 1rem auto;
+}
+
+.logo h1 {
+    font-size: 3rem;
+}
+
+.mb-5 {
+    margin-bottom: 4rem;
+}
+
+.quote {
+    background-color: rgb(228, 233, 238);
+}
+
+p-5 {
+    padding: 5rem auto;
+}
+
+.name {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.2rem;
+    font-weight: bolder;
+}
+
+.sign-up {
+    border: 1px solid black;margin: 5rem 16rem; padding: 4rem 5rem;
+    border-radius: 14px;
+    background-color: rgb(56, 128, 223);
+    color: white;
+}
+
+.sign-btn {
+    padding: 0.5rem 2.2rem;
+    background: transparent;
+    border-radius: 12px;
+    border: solid 2px white;
+    color: white;
+}
+
+.sign-btn:hover{
+    transition: all 0.5s;
+    border: solid 2px black;
+    background-color: white;
+    color: black;
+}
